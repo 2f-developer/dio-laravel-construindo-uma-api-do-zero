@@ -27,7 +27,7 @@ API REST de catálogo de produtos feita para o lab "Laravel: Construindo uma API
 
 ## Rodando
 
-Precisa de PHP 8.3+ e Composer. O banco padrão é SQLite e a fila usa o driver `database`, então não precisa de nenhum serviço extra.
+Precisa de PHP 8.4+ e Composer. O banco padrão é SQLite e a fila usa o driver `database`, então não precisa de nenhum serviço extra.
 
 ```bash
 composer install
